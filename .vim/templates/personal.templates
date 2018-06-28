@@ -1,0 +1,20 @@
+§ =============================================================
+§  Personal Information
+§ =============================================================
+
+SetMacro( 'AUTHOR',       'Steven Chen' )
+SetMacro( 'AUTHORREF',    '' )
+SetMacro( 'EMAIL',        'stevenatom@gmail.com' )
+SetMacro( 'ORGANIZATION', 'atom' )
+SetMacro( 'COMPANY',      'atom' )
+SetMacro( 'COPYRIGHT',    'Copyright (c) |2018|, |Steven|' )
+SetMacro( 'LICENSE',      'GNU General Public License' )
+
+§ =============================================================
+§  Date and Time Format
+§ =============================================================
+
+§SetFormat( 'DATE', '%x' )
+§SetFormat( 'TIME', '%H:%M' )
+§SetFormat( 'YEAR', '%Y' )
+
